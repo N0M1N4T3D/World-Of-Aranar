@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pictures/backgrounds/main_menu.jpg</file>
+        <file>pictures/units/heavy_infantry.jpg</file>
+        <file>pictures/units/light_infantry.jpg</file>
+        <file>pictures/units/archer.jpg</file>
+        <file>pictures/units/doctor.jpg</file>
+        <file>pictures/units/wizard.jpg</file>
+        <file>pictures/units/gulyay_gorod.jpg</file>
+        <file>pictures/icons/theme_icon.png</file>
+    </qresource>
+</RCC>
